@@ -14,7 +14,7 @@ Used: [andrewmvd/face-mask-detection](https://www.kaggle.com/datasets/andrewmvd/
 
 ## 📊 Accuracy
 
-Achieved test accuracy of: **92%**
+Achieved test accuracy of: **85.37%**
 
 ## 🛠️ Tools Used
 
